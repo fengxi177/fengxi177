@@ -4,7 +4,7 @@
 <!-- GitHub 统计卡片
    链接：https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fengxi177&theme=buefy)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fengxi177&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
